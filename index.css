@@ -95,7 +95,7 @@ p {
 
 .img-main:hover {
     cursor: pointer;
-    transform:scale(3)
+    transform:scale(2)
     translateY(100px)
 }
 
@@ -275,6 +275,10 @@ input::placeholder{
 
     .img-main {
         margin: 00.5em 0;
+    }
+
+    .img-main:hover {
+        transform:scale(3)
     }
 
     .container {
