@@ -58,7 +58,7 @@ h2 {
  font-size: 2.25rem;
  
  text-shadow: 1px 1px 5px black;
- width: 60%;
+ width: 80%;
         margin: auto;
         margin-bottom: 20px;
 }
@@ -177,6 +177,7 @@ p {
 
 
 input {
+    font-size: 18px;
     font-family: inherit;
     text-align: center;
     width: 80%;
