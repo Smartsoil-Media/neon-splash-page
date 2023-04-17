@@ -298,36 +298,36 @@ input::placeholder{
 
   @-webkit-keyframes color-change-5x {
     0% {
-      color: #19dcea;
+      color: #ebfeff;
     }
     25% {
-      color: #b22cff;
+      color: #b5fdf4;
     }
     50% {
-      color: #ed6015;
+      color: #8ffbf2;
     }
     75% {
-      color: #f5be10;
+      color: #fc99e0;
     }
     100% {
-      color: #3bd80d;
+      color: #e1ecf7;
     }
   }
   @keyframes color-change-5x {
     0% {
-      color: #19dcea;
+        color: #ebfeff;
     }
     25% {
-      color: #b22cff;
+        color: #b5fdf4;
     }
     50% {
-      color: #ea5422;
+        color: #8ffbf2;
     }
     75% {
-      color: #f5be10;
+        color: #fc99e0;
     }
     100% {
-      color: #3bd80d;
+      color: #e1ecf7;
     }
   }
 
